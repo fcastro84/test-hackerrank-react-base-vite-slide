@@ -28,7 +28,7 @@ Please note that the component has the above data-testid attributes for test cas
 
 ## Instalation
 
-- yarn -D tailwindcss postcss autoprefixer
+- yarn add -D tailwindcss postcss autoprefixer
 - yarn tailwindcss init -p
 - yarn add -D daisyui@latest
 
